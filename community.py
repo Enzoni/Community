@@ -3,7 +3,7 @@
 #
 #  community.py
 #  
-#  Copyright 2017-2019 Hisen Zhang <hisenzhang@Zhang>
+#  Copyright 2017-2019 Hisen Zhang <hisenzhang01@foxmail.com>
 #  
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
