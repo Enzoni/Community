@@ -3,7 +3,7 @@
 #
 #  sta.py
 #  
-#  Copyright 2017-2019 Hisen Zhang <hisenzhang@Zhang>
+#  Copyright 2017-2019 Hisen Zhang <hisenzhang01@foxmail.com>
 #  
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
@@ -58,12 +58,3 @@ tb.add_row(["25<=x<40",counter_2,float(counter_2/len(l)*100)])
 tb.add_row(["40<=x<55",counter_3,float(counter_3/len(l)*100)])	
 tb.add_row(["x>55",counter_4,float(counter_4/len(l)*100)])
 print tb
-
-
-
-  
-
-
-
-
-
