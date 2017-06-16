@@ -49,7 +49,7 @@ def com():
 	# Page loop
 	# 318 as upper boundry, 10~ for DEMO
 
-	for j in range(1,10):	
+	for j in range(1,318):	
 
 		# Progression bar
 
